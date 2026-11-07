@@ -1,0 +1,320 @@
+{
+"@@locale": "en",
+
+
+"appName": "GARDIROP",
+"tagline": "Your wardrobe. Smarter.",
+"heroLine": "A more you, in every outfit.",
+"getStarted": "Get Started",
+"alreadyHaveAccount": "I already have an account",
+"styleBrighterYou": "Style a brighter you",
+
+
+  "createAccount": "Create your account",
+  "fullName": "Full name",
+  "email": "Email",
+  "password": "Password",
+  "continueButton": "Continue",
+  "orContinueWith": "Or continue with",
+  "continueWithGoogle": "Continue with Google",
+  "continueWithApple": "Continue with Apple",
+  "alreadyHaveAnAccount": "Already have an account?",
+  "signIn": "Sign in",
+  "signupSubtitle": "Start your style journey today.",
+  "fullNameRequired": "Please enter your full name",
+  "emailRequired": "Please enter your email",
+  "invalidEmail": "Please enter a valid email",
+  "passwordRequired": "Please enter a password",
+  "passwordTooShort": "Password must be at least 6 characters",
+  "accountCreated": "Account created successfully",
+  "termsAgreement": "By continuing, you agree to our Terms of Service and Privacy Policy.",
+  "emailAlreadyRegistered": "This email is already registered.",
+  "networkError": "Please check your internet connection.",
+  "genericError": "Something went wrong. Please try again.",
+
+
+  "whoAreWeStylingTitle": "Who are we styling?",
+  "whoAreWeStylingSubtitle": "Tell us a little about you so we can personalize your style experience.",
+  "stylingWomen": "Woman",
+  "stylingMen": "Man",
+  "stylingBoth": "Both",
+  "nextButton": "Next",
+
+
+  "styleSwipeTitle": "Which style feels most like you?",
+  "styleSwipeSubtitle": "Swipe right for yes, left for no.",
+  "styleSwipeYes": "Yes",
+  "styleSwipeNo": "No",
+  "styleSwipeOf": "of",
+  "styleSwipeComplete": "Great! We’re learning your style.",
+
+
+  "preferencesTitle": "A few final touches",
+  "preferencesSubtitle": "Help us understand what feels right for you.",
+  "favoriteColors": "Colors you love",
+  "colorsToAvoid": "Colors you avoid",
+  "preferredFits": "How do you like your clothes to fit?",
+  "fitSlim": "Slim",
+  "fitRegular": "Regular",
+  "fitRelaxed": "Relaxed",
+  "fitOversized": "Oversized",
+  "preferredOccasions": "What do you dress for most?",
+  "occasionEveryday": "Everyday",
+  "occasionUniversity": "University",
+  "occasionWork": "Work",
+  "occasionEvents": "Events",
+  "occasionGoingOut": "Going out",
+  "occasionSport": "Sport",
+  "preferencesContinue": "Continue",
+  "preferencesScreenTitle": "Any preferences?",
+  "preferencesScreenSubtitle": "Tell us more about your style and lifestyle.",
+  "styleVibe": "Style Vibe",
+  "vibeMinimal": "Minimal",
+  "vibeChic": "Chic",
+  "vibeCasual": "Casual",
+  "vibeTrendy": "Trendy",
+  "vibeClassic": "Classic",
+  "vibeEdgy": "Edgy",
+  "occasions": "Occasions",
+  "occasionTravel": "Travel",
+  "occasionSpecialEvent": "Special Event",
+  "occasionAtHome": "At Home",
+
+
+
+  "fitSizeTitle": "Help us get the details right.",
+  "fitSizeSubtitle": "This ensures better fit and more accurate recommendations.",
+  "mySize": "My size",
+  "fitPreference": "Fit preference",
+  "height": "Height",
+  "weightOptional": "Weight (optional)",
+  "selectSize": "Select size",
+  "selectFit": "Select fit",
+  "enterHeight": "Enter height",
+  "enterWeight": "Enter weight",
+  "centimeters": "cm",
+  "kilograms": "kg",
+
+
+  "styleDnaTitle": "Your Style DNA",
+  "styleDnaSubtitle": "A quick look at your style profile so far.",
+  "styleDnaContinue": "Continue",
+  "highlightMinimal": "Clean and effortless styling",
+  "highlightClassic": "Timeless and refined pieces",
+  "highlightPolished": "Polished and elevated looks",
+  "highlightCasual": "Comfortable everyday outfits",
+  "highlightExpressive": "Expressive looks with personality",
+  "highlightBold": "Confident statement styling",
+  "highlightSporty": "Practical looks built for movement",
+  "highlightRomantic": "Soft and feminine details",
+  "highlightRugged": "Strong textures and practical pieces",
+  "highlightVersatile": "Versatile across different occasions",
+  "highlightSlimFit": "Prefers a more fitted silhouette",
+  "highlightRegularFit": "Prefers a balanced regular fit",
+  "highlightRelaxedFit": "Prefers comfortable relaxed fits",
+  "highlightOversizedFit": "Enjoys oversized silhouettes",
+  "highlightMixMatch": "Easy to mix and match",
+  "highlightComfortStyle": "A balance of comfort and style",
+  "highlightPersonalized": "Personalized around your preferences",
+
+
+  "addFirstItemsTitle": "Add your first items",
+  "addFirstItemsSubtitle": "Start with 5–8 pieces to get personalized recommendations.",
+  "takePhotos": "Take Photos",
+  "takePhotosSubtitle": "Snap your clothes now",
+  "uploadFromGallery": "Upload from Gallery",
+  "uploadFromGallerySubtitle": "Choose from your photos",
+  "browseCatalog": "Browse Catalog",
+  "browseCatalogSubtitle": "Add items from our catalog",
+  "doThisLater": "Do This Later",
+
+
+  "allSetTitle": "You’re all set!",
+  "allSetWithItemsSubtitle": "We’ll now create your first outfits based on your style and items.",
+  "allSetWithoutItemsSubtitle": "Your style profile is ready. Add a few items anytime to unlock personalized outfits.",
+  "seeFirstOutfits": "See My First Outfits",
+  "startExploring": "Start Exploring",
+  "exploreTheApp": "Explore the App",
+
+
+  "exploreGardiropTitle": "Explore GARDIROP",
+  "exploreGardiropSubtitle": "Here’s what you can do.",
+  "aiStylist": "AI Stylist",
+  "aiStylistDescription": "Get personalized outfits and advice.",
+  "myCloset": "My Closet",
+  "myClosetDescription": "Organize and manage your wardrobe.",
+  "styleFeature": "Style",
+  "styleFeatureDescription": "Discover new looks for any occasion.",
+  "shouldIBuyThis": "Should I Buy This?",
+  "shouldIBuyThisDescription": "Make smarter choices before you buy.",
+  "closetGaps": "Closet Gaps",
+  "closetGapsDescription": "See what’s missing from your wardrobe.",
+
+
+
+
+  "welcomeBack": "Welcome back",
+  "signInSubtitle": "Sign in to continue your style journey.",
+  "forgotPassword": "Forgot password?",
+  "signInButton": "Sign In",
+  "dontHaveAccount": "Don't have an account?",
+  "createAccountLink": "Create Account",
+  "invalidEmailOrPassword": "Invalid email or password.",
+  "signInFailed": "Something went wrong. Please try again.",
+
+
+  "gardiCamera": "Gardi Camera",
+  "cameraScanInstruction": "Position one clothing item inside the frame",
+  "cameraAuto": "Auto",
+  "cameraManual": "Manual",
+  "cameraClose": "Close",
+  "cameraFlash": "Flash",
+
+
+  "aiResultTitle": "AI RESULT",
+  "itemDetected": "Item detected",
+  "detectedByGardi": "Detected by Gardi",
+  "category": "Category",
+  "color": "Color",
+  "material": "Material",
+  "fit": "Fit",
+  "season": "Season",
+  "style": "Style",
+  "occasion": "Occasion",
+  "tags": "Tags",
+  "notDetected": "Not detected",
+  "saveToMyCloset": "Save to My Closet",
+  "reviewEditDetails": "Review & Edit Details",
+  "couldNotSaveItem": "Could not save this item. Please try again.",
+
+
+  "styleMeTitle": "STYLE ME",
+  "styleMeSubtitle": "Create, style, and save looks from your wardrobe.",
+  "styleLooksTab": "Looks",
+  "styleItemsTab": "Items",
+  "styleItemsTitle": "Choose an item to style",
+  "styleItemsSubtitle": "Pick something from your closet and Gardi will build a look around it.",
+  "styleItemsEmptyTitle": "Your closet is waiting",
+  "styleItemsEmptySubtitle": "Add a few items to your closet first, then come back to style them.",
+  "styleItemsLoadingError": "We couldn't load your closet right now.",
+
+
+
+
+  "styleAnOutfit": "Style an Outfit",
+  "styleAnOutfitSubtitle": "Choose pieces from your closet and let Gardi help bring the look together.",
+  "myLooks": "My Looks",
+  "myLooksSubtitle": "Outfits you've created and saved.",
+  "noSavedLooksTitle": "No saved looks yet",
+  "noSavedLooksSubtitle": "Style your first outfit and save it here.",
+
+
+  "selectOutfitItemsTitle": "Select Your Pieces",
+  "selectOutfitItemsSubtitle": "Choose the pieces you want to style together.",
+
+
+  "outfitItemsSelected": "{count} selected",
+  "@outfitItemsSelected": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "continueOutfit": "Continue",
+  "selectAtLeastTwoItems": "Select at least 2 pieces to create an outfit.",
+  "outfitClosetEmptyTitle": "Your closet is empty",
+  "outfitClosetEmptySubtitle": "Add some pieces to your closet before styling an outfit.",
+  "outfitClosetLoadError": "We couldn't load your closet right now.",
+  "allCategories": "All",
+
+
+  "outfitBuilderTitle": "Your Outfit",
+  "outfitBuilderSubtitle": "Review the pieces you've chosen before Gardi styles the look.",
+  "selectedPieces": "Selected Pieces",
+  "analyzeWithGardi": "Analyze with Gardi",
+
+
+  "gardiAnalyzingItemTitle": "Gardi is analyzing\nyour item...",
+  "gardiAnalyzingOutfitTitle": "Gardi is styling\nyour outfit...",
+  "gardiAnalyzingWait": "Just a few seconds ✦",
+  "gardiItemStepIdentify": "Identifying item",
+  "gardiItemStepColor": "Detecting color",
+  "gardiItemStepMaterial": "Analyzing material",
+  "gardiItemStepStyle": "Finding style",
+  "gardiItemStepSeason": "Checking season & occasion",
+  "gardiOutfitStepColor": "Checking color harmony",
+  "gardiOutfitStepStyle": "Matching styles",
+  "gardiOutfitStepFit": "Reviewing fit & balance",
+  "gardiOutfitStepOccasion": "Checking occasion & season",
+  "gardiOutfitStepFinish": "Putting the look together",
+  "gardiAnalyzingItemProgress": "Gardi is getting to know this piece.",
+  "gardiAnalyzingOutfitProgress": "Gardi is bringing your pieces together.",
+  "gardiAnalyzingAlmostDone": "Almost there ✦",
+  "gardiOutfitErrorTitle": "Gardi needs a moment",
+  "gardiOutfitErrorMessage": "Gardi couldn't analyze this outfit right now. Please try again in a moment.",
+  "tryAgain": "Try again",
+
+
+  "gardiTakeTitle": "Gardi’s Take",
+  "gardiTakeSubtitle": "Here’s how your pieces work together.",
+  "gardiWorksWell": "Works Well",
+  "gardiAlmostThere": "Almost There",
+  "gardiNeedsAdjustment": "Needs a Little Adjustment",
+  "gardiColorHarmony": "Color Harmony",
+  "gardiStyleHarmony": "Style Harmony",
+  "gardiFitBalance": "Fit & Balance",
+  "gardiOccasionMatch": "Occasion",
+  "gardiSeasonMatch": "Season",
+  "gardiWhyItWorks": "Why It Works",
+  "gardiThingsToConsider": "Something to Consider",
+  "gardiSuggestions": "Gardi Suggests",
+  "continueStyling": "Continue Styling",
+  "saveLook": "Save Look",
+
+
+  "completeTheLookTitle": "Complete the Look",
+  "completeTheLookSubtitle": "Pieces from your closet that could work with this look.",
+  "fromYourCloset": "From Your Closet",
+  "greatMatch": "Great Match",
+  "noClosetMatchesTitle": "No close matches found",
+  "noClosetMatchesSubtitle": "Gardi couldn’t find a close match in your closet for this suggestion.",
+  "gardiRecommends": "Gardi Recommends",
+  "recommendedColors": "Colors",
+  "recommendedStyles": "Styles",
+  "recommendedFits": "Fits",
+
+
+  "savingLook": "Saving...",
+  "lookSaved": "Saved",
+  "lookSavedTitle": "Look saved!",
+  "lookSavedMessage": "Your look is now saved to My Looks.",
+  "viewMyLooks": "View My Looks",
+  "notNow": "Not now",
+  "saveLookErrorTitle": "Couldn't save your look",
+  "saveLookErrorMessage": "Something went wrong while saving your look. Please try again.",
+
+  "savedLookPieces": "{count, plural, =1{1 piece} other{{count} pieces}}",
+  "@savedLookPieces": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+
+
+  "savedLooksLoadError": "Couldn't load your saved looks. Please try again.",
+  "savedLookMissingPieces": "Some pieces are no longer in your closet.",
+
+  "deleteLook": "Delete Look",
+  "deleteLookConfirmTitle": "Delete this look?",
+  "deleteLookConfirmMessage": "This look will be removed from My Looks. Your wardrobe pieces won't be deleted.",
+  "deleteLookError": "Couldn't delete this look. Please try again.",
+  "deletingLook": "Deleting...",
+
+  "styleThisItemSubtitle": "Let Gardi create a look around this piece using your wardrobe.",
+  "styleItForMe": "Style It For Me",
+  "styleThisItem": "Style This Item"
+
+}

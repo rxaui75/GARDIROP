@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "717709388251",
+    "project_id": "gardirop-app-a5c92",
+    "storage_bucket": "gardirop-app-a5c92.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717709388251:android:e456b9fb2fa80dbb199ffe",
+        "android_client_info": {
+          "package_name": "com.gardirop.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc-WXAcrEVeqIWTUElxVMuxXIni8VJ-Fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

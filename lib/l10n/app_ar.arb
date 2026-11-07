@@ -1,0 +1,326 @@
+{
+"@@locale": "ar",
+
+
+"appName": "GARDIROP",
+"tagline": "خزانتك. أذكى.",
+"heroLine": "نسخة أكثر منك، في كل إطلالة.",
+"getStarted": "ابدأ",
+"alreadyHaveAccount": "لدي حساب بالفعل",
+"styleBrighterYou": "نسّق إطلالة تعكسك أكثر",
+
+
+  "createAccount": "أنشئ حسابك",
+  "fullName": "الاسم الكامل",
+  "email": "البريد الإلكتروني",
+  "password": "كلمة المرور",
+  "continueButton": "متابعة",
+  "orContinueWith": "أو تابع باستخدام",
+  "continueWithGoogle": "المتابعة باستخدام Google",
+  "continueWithApple": "المتابعة باستخدام Apple",
+  "alreadyHaveAnAccount": "لديك حساب بالفعل؟",
+  "signIn": "تسجيل الدخول",
+  "signupSubtitle": "ابدأ رحلة أسلوبك اليوم.",
+  "fullNameRequired": "يرجى إدخال الاسم الكامل",
+  "emailRequired": "يرجى إدخال البريد الإلكتروني",
+  "invalidEmail": "يرجى إدخال بريد إلكتروني صالح",
+  "passwordRequired": "يرجى إدخال كلمة المرور",
+  "passwordTooShort": "يجب أن تتكون كلمة المرور من 6 أحرف على الأقل",
+  "accountCreated": "تم إنشاء الحساب بنجاح",
+  "termsAgreement": "بالمتابعة، فإنك توافق على شروط الخدمة وسياسة الخصوصية.",
+  "emailAlreadyRegistered": "هذا البريد الإلكتروني مسجل بالفعل.",
+  "networkError": "يرجى التحقق من اتصال الإنترنت.",
+  "genericError": "حدث خطأ ما. يرجى المحاولة مرة أخرى.",
+
+
+  "whoAreWeStylingTitle": "لمن سننسّق الإطلالات؟",
+  "whoAreWeStylingSubtitle": "أخبرنا قليلًا عنك لنخصص لك تجربة تنسيق تناسب أسلوبك.",
+  "stylingWomen": "نساء",
+  "stylingMen": "رجال",
+  "stylingBoth": "كلاهما",
+  "nextButton": "التالي",
+
+
+  "styleSwipeTitle": "أي ستايل يشبهك أكثر؟",
+  "styleSwipeSubtitle": "اسحب لليمين إذا عجبك، ولليسار إذا ما عجبك.",
+  "styleSwipeYes": "نعم",
+  "styleSwipeNo": "لا",
+  "styleSwipeOf": "من",
+  "styleSwipeComplete": "ممتاز! بدأنا نفهم ستايلك.",
+
+
+  "preferencesTitle": "لمسات أخيرة بسيطة",
+  "preferencesSubtitle": "ساعدنا نفهم أكثر ما يناسبك ويشبه أسلوبك.",
+  "favoriteColors": "الألوان التي تحبها",
+  "colorsToAvoid": "الألوان التي تفضل تجنبها",
+  "preferredFits": "كيف تفضل أن تكون قصة ملابسك؟",
+  "fitSlim": "ضيقة",
+  "fitRegular": "عادية",
+  "fitRelaxed": "مريحة",
+  "fitOversized": "واسعة",
+  "preferredOccasions": "ما المناسبات التي تختار لها ملابسك غالبًا؟",
+  "occasionEveryday": "يومي",
+  "occasionUniversity": "جامعة",
+  "occasionWork": "عمل",
+  "occasionEvents": "مناسبات",
+  "occasionGoingOut": "طلعات",
+  "occasionSport": "رياضة",
+  "preferencesContinue": "متابعة",
+  "preferencesScreenTitle": "هل لديك تفضيلات؟",
+  "preferencesScreenSubtitle": "أخبرنا أكثر عن أسلوبك ونمط حياتك.",
+  "styleVibe": "ستايلك المفضل",
+  "vibeMinimal": "مينيمال",
+  "vibeChic": "أنيق",
+  "vibeCasual": "كاجوال",
+  "vibeTrendy": "عصري",
+  "vibeClassic": "كلاسيكي",
+  "vibeEdgy": "جريء",
+  "occasions": "المناسبات",
+  "occasionTravel": "سفر",
+  "occasionSpecialEvent": "مناسبة خاصة",
+  "occasionAtHome": "في المنزل",
+
+
+  "fitSizeTitle": "ساعدنا في ضبط التفاصيل.",
+  "fitSizeSubtitle": "للحصول على مقاسات أنسب وتوصيات أكثر دقة.",
+  "mySize": "مقاسي",
+  "fitPreference": "القصة المفضلة",
+  "height": "الطول",
+  "weightOptional": "الوزن (اختياري)",
+  "selectSize": "اختر المقاس",
+  "selectFit": "اختر القصة",
+  "enterHeight": "أدخل الطول",
+  "enterWeight": "أدخل الوزن",
+  "centimeters": "سم",
+  "kilograms": "كجم",
+
+
+  "styleDnaTitle": "بصمتك في الأناقة",
+  "styleDnaSubtitle": "نظرة سريعة على أسلوبك الذي بدأنا بالتعرّف عليه.",
+  "styleDnaContinue": "متابعة",
+  "highlightMinimal": "تنسيقات نظيفة وبسيطة",
+  "highlightClassic": "قطع كلاسيكية وأنيقة تدوم",
+  "highlightPolished": "إطلالات مرتبة وراقية",
+  "highlightCasual": "إطلالات يومية مريحة",
+  "highlightExpressive": "إطلالات تعبّر عن شخصيتك",
+  "highlightBold": "ستايل جريء وواثق",
+  "highlightSporty": "إطلالات عملية تناسب الحركة",
+  "highlightRomantic": "تفاصيل ناعمة ورومانسية",
+  "highlightRugged": "خامات قوية وقطع عملية",
+  "highlightVersatile": "ستايل مرن يناسب مناسبات مختلفة",
+  "highlightSlimFit": "تفضّل القصّات الأكثر تحديدًا للجسم",
+  "highlightRegularFit": "تفضّل القصّات المتوازنة والعادية",
+  "highlightRelaxedFit": "تفضّل القصّات المريحة",
+  "highlightOversizedFit": "تحب القصّات الواسعة",
+  "highlightMixMatch": "قطع سهلة التنسيق مع بعضها",
+  "highlightComfortStyle": "توازن بين الراحة والأناقة",
+  "highlightPersonalized": "ستايل مبني على تفضيلاتك",
+
+
+
+  "addFirstItemsTitle": "أضف أول قطعك",
+  "addFirstItemsSubtitle": "ابدأ بـ 5–8 قطع لنقدم لك توصيات مخصصة.",
+  "takePhotos": "التقاط صور",
+  "takePhotosSubtitle": "صوّر ملابسك الآن",
+  "uploadFromGallery": "رفع من المعرض",
+  "uploadFromGallerySubtitle": "اختر من صورك",
+  "browseCatalog": "تصفح الكتالوج",
+  "browseCatalogSubtitle": "أضف قطعًا من الكتالوج",
+  "doThisLater": "سأفعل ذلك لاحقًا",
+
+
+
+  "allSetTitle": "كل شيء جاهز!",
+  "allSetWithItemsSubtitle": "سنبدأ الآن بإنشاء أول إطلالاتك بناءً على أسلوبك وقطعك.",
+  "allSetWithoutItemsSubtitle": "ملف أسلوبك جاهز. أضف بعض القطع في أي وقت للحصول على إطلالات مخصصة.",
+  "seeFirstOutfits": "شاهد أول إطلالاتي",
+  "startExploring": "ابدأ الاستكشاف",
+  "exploreTheApp": "استكشف التطبيق",
+
+
+  "exploreGardiropTitle": "اكتشف GARDIROP",
+  "exploreGardiropSubtitle": "إليك ما يمكنك فعله.",
+  "aiStylist": "منسقك الذكي",
+  "aiStylistDescription": "احصل على إطلالات ونصائح مخصصة لك.",
+  "myCloset": "خزانتي",
+  "myClosetDescription": "نظّم وأدر قطع خزانتك.",
+  "styleFeature": "التنسيق",
+  "styleFeatureDescription": "اكتشف إطلالات جديدة لأي مناسبة.",
+  "shouldIBuyThis": "هل أشتري هذه القطعة؟",
+  "shouldIBuyThisDescription": "اتخذ قرارات أذكى قبل الشراء.",
+  "closetGaps": "نواقص الخزانة",
+  "closetGapsDescription": "اكتشف القطع التي تنقص خزانتك.",
+
+
+
+  "welcomeBack": "مرحبًا بعودتك",
+  "signInSubtitle": "سجّلي الدخول لمتابعة رحلتك مع أسلوبك.",
+  "forgotPassword": "نسيت كلمة المرور؟",
+  "signInButton": "تسجيل الدخول",
+  "dontHaveAccount": "ليس لديك حساب؟",
+  "createAccountLink": "إنشاء حساب",
+  "invalidEmailOrPassword": "البريد الإلكتروني أو كلمة المرور غير صحيحة.",
+  "signInFailed": "حدث خطأ ما. حاولي مرة أخرى.",
+
+
+  "gardiCamera": "كاميرا Gardi",
+  "cameraScanInstruction": "ضعي قطعة ملابس واحدة داخل الإطار",
+  "cameraAuto": "تلقائي",
+  "cameraManual": "يدوي",
+  "cameraClose": "إغلاق",
+  "cameraFlash": "الفلاش",
+
+
+  "aiResultTitle": "نتيجة التحليل",
+  "itemDetected": "تم التعرّف على القطعة",
+  "detectedByGardi": "تم التعرّف عليها بواسطة Gardi",
+  "category": "الفئة",
+  "color": "اللون",
+  "material": "الخامة",
+  "fit": "القَصّة",
+  "season": "الموسم",
+  "style": "الستايل",
+  "occasion": "المناسبة",
+  "tags": "الوسوم",
+  "notDetected": "لم يتم التعرّف عليه",
+  "saveToMyCloset": "حفظ في خزانتي",
+  "reviewEditDetails": "مراجعة وتعديل التفاصيل",
+  "couldNotSaveItem": "تعذر حفظ القطعة. يرجى المحاولة مرة أخرى.",
+
+
+  "styleMeTitle": "نسّق إطلالتي",
+  "styleMeSubtitle": "أنشئي ونسّقي واحفظي إطلالاتك من خزانتك.",
+  "styleLooksTab": "إطلالات",
+  "styleItemsTab": "القطع",
+  "styleItemsTitle": "اختاري قطعة لتنسيقها",
+  "styleItemsSubtitle": "اختاري قطعة من خزانتك وسيقوم Gardi ببناء إطلالة حولها.",
+  "styleItemsEmptyTitle": "خزانتك بانتظارك",
+  "styleItemsEmptySubtitle": "أضيفي بعض القطع إلى خزانتك أولاً، ثم عودي لتنسيقها.",
+  "styleItemsLoadingError": "تعذر تحميل خزانتك الآن.",
+
+
+
+
+  "styleAnOutfit": "نسّقي إطلالة",
+  "styleAnOutfitSubtitle": "اختاري قطعًا من خزانتك ودعي Gardi يساعدك على تنسيقها معًا.",
+  "myLooks": "إطلالاتي",
+  "myLooksSubtitle": "الإطلالات التي أنشأتها وحفظتها.",
+  "noSavedLooksTitle": "لا توجد إطلالات محفوظة بعد",
+  "noSavedLooksSubtitle": "نسّقي إطلالتك الأولى واحفظيها هنا.",
+
+
+
+  "selectOutfitItemsTitle": "اختاري قطع إطلالتك",
+  "selectOutfitItemsSubtitle": "اختاري القطع التي تريدين تنسيقها معًا.",
+
+
+
+  "outfitItemsSelected": "تم اختيار {count}",
+  "@outfitItemsSelected": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "continueOutfit": "متابعة",
+  "selectAtLeastTwoItems": "اختاري قطعتين على الأقل لإنشاء إطلالة.",
+  "outfitClosetEmptyTitle": "خزانتك فارغة",
+  "outfitClosetEmptySubtitle": "أضيفي بعض القطع إلى خزانتك قبل تنسيق إطلالة.",
+  "outfitClosetLoadError": "تعذر تحميل خزانتك الآن.",
+  "allCategories": "الكل",
+
+
+
+  "outfitBuilderTitle": "إطلالتك",
+  "outfitBuilderSubtitle": "راجعي القطع التي اخترتها قبل أن يساعدك Gardi في تنسيق الإطلالة.",
+  "selectedPieces": "القطع المختارة",
+  "analyzeWithGardi": "حلّلي الإطلالة مع Gardi",
+
+
+
+  "gardiAnalyzingItemTitle": "Gardi يحلل\nقطعتك...",
+  "gardiAnalyzingOutfitTitle": "Gardi ينسّق\nإطلالتك...",
+  "gardiAnalyzingWait": "بضع ثوانٍ فقط ✦",
+  "gardiItemStepIdentify": "التعرّف على القطعة",
+  "gardiItemStepColor": "تحديد اللون",
+  "gardiItemStepMaterial": "تحليل الخامة",
+  "gardiItemStepStyle": "تحديد الستايل",
+  "gardiItemStepSeason": "مراجعة الموسم والمناسبة",
+  "gardiOutfitStepColor": "مراجعة تناغم الألوان",
+  "gardiOutfitStepStyle": "تنسيق الستايلات",
+  "gardiOutfitStepFit": "مراجعة القَصّات والتوازن",
+  "gardiOutfitStepOccasion": "مراجعة المناسبة والموسم",
+  "gardiOutfitStepFinish": "تجميع الإطلالة",
+  "gardiAnalyzingItemProgress": "Gardi يتعرّف على قطعتك.",
+  "gardiAnalyzingOutfitProgress": "Gardi يجمع قطع إطلالتك معًا.",
+  "gardiAnalyzingAlmostDone": "أوشكنا على الانتهاء ✦",
+  "gardiOutfitErrorTitle": "Gardi يحتاج لحظة",
+  "gardiOutfitErrorMessage": "لم يتمكن Gardi من تحليل هذه الإطلالة الآن. حاولي مرة أخرى بعد قليل.",
+  "tryAgain": "حاولي مرة أخرى",
+
+
+
+  "gardiTakeTitle": "رأي Gardi",
+  "gardiTakeSubtitle": "إليكِ كيف تتناسق القطع التي اخترتها معًا.",
+  "gardiWorksWell": "متناسقة جدًا",
+  "gardiAlmostThere": "تحتاج لمسة بسيطة",
+  "gardiNeedsAdjustment": "تحتاج بعض التعديل",
+  "gardiColorHarmony": "تناغم الألوان",
+  "gardiStyleHarmony": "تناغم الستايل",
+  "gardiFitBalance": "القَصّة والتوازن",
+  "gardiOccasionMatch": "المناسبة",
+  "gardiSeasonMatch": "الموسم",
+  "gardiWhyItWorks": "لماذا تنجح الإطلالة؟",
+  "gardiThingsToConsider": "شيء يستحق الانتباه",
+  "gardiSuggestions": "اقتراحات Gardi",
+  "continueStyling": "واصلي التنسيق",
+  "saveLook": "احفظي الإطلالة",
+
+
+
+  "completeTheLookTitle": "أكملي الإطلالة",
+  "completeTheLookSubtitle": "قطع من خزانتك يمكن أن تتناسق مع هذه الإطلالة.",
+  "fromYourCloset": "من خزانتك",
+  "greatMatch": "اختيار مناسب",
+  "noClosetMatchesTitle": "لم نجد تطابقًا قريبًا",
+  "noClosetMatchesSubtitle": "لم يجد Gardi قطعة قريبة من هذا الاقتراح في خزانتك.",
+  "gardiRecommends": "اقتراح Gardi",
+  "recommendedColors": "الألوان",
+  "recommendedStyles": "الستايلات",
+  "recommendedFits": "القَصّات",
+
+  "savingLook": "جارٍ الحفظ...",
+  "lookSaved": "تم الحفظ",
+  "lookSavedTitle": "تم حفظ الإطلالة!",
+  "lookSavedMessage": "أصبحت إطلالتك محفوظة الآن في إطلالاتي.",
+  "viewMyLooks": "عرض إطلالاتي",
+  "notNow": "ليس الآن",
+  "saveLookErrorTitle": "تعذر حفظ الإطلالة",
+  "saveLookErrorMessage": "حدث خطأ أثناء حفظ إطلالتك. حاولي مرة أخرى.",
+
+
+  "savedLookPieces": "{count, plural, =1{قطعة واحدة} =2{قطعتان} few{{count} قطع} many{{count} قطعة} other{{count} قطعة}}",
+  "@savedLookPieces": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+
+  "savedLooksLoadError": "تعذر تحميل إطلالاتك المحفوظة. حاولي مرة أخرى.",
+  "savedLookMissingPieces": "بعض القطع لم تعد موجودة في خزانتك.",
+
+
+
+  "deleteLook": "حذف الإطلالة",
+  "deleteLookConfirmTitle": "حذف هذه الإطلالة؟",
+  "deleteLookConfirmMessage": "ستُحذف هذه الإطلالة من إطلالاتك المحفوظة، لكن قطع خزانتك ستبقى كما هي.",
+  "deleteLookError": "تعذر حذف الإطلالة. حاولي مرة أخرى.",
+  "deletingLook": "جارٍ الحذف...",
+
+  "styleThisItemSubtitle": "دعي Gardi ينسّق إطلالة حول هذه القطعة باستخدام خزانتك.",
+  "styleItForMe": "نسّقيها لي",
+  "styleThisItem": "نسّقي هذه القطعة"
+}
